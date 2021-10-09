@@ -24,4 +24,4 @@ management:
       show-details: always
         
 main:
-  message: Hi from config server
+  message: Hi from config server updated
