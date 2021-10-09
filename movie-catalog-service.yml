@@ -18,10 +18,10 @@ management:
   endpoints:
     web:
       exposure:
-        include: health
+        include: "*"
   endpoint:
     health:
       show-details: always
         
 main:
-  message: Hi from config server updated again
+  message: Hi from config server updated!!!
